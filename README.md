@@ -16,10 +16,10 @@ codes. Both packages support among others svg vector graphics export.
 
 # Details
 
-There is many available barcode symbologies available. A symbology
-represents both encoding of characters, quiet zone, start and stop
-markers, as well as a check symbol (weighted sum of all symbols). Here
-we chose the following symbologies:
+There are many barcode symbologies available. A symbology represents
+both encoding of characters, quiet zone, start and stop markers, as well
+as a check symbol (weighted sum of all symbols). Here we chose the
+following symbologies:
 
   - 1D barcode: Code 128
   - 2D barcode: QR
