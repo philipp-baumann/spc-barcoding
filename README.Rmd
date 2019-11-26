@@ -15,7 +15,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Fully automated barcode and label generation
 
-To automate barcoding in python there are two packages, [`python-barcode`](https://pypi.org/project/python-barcode/) for 1D and  [`qrcode`](https://pypi.org/project/qrcode/) for 2D Quick Response (QR) codes. Both packages support exporting among others svg vector graphics export.
+To automate barcoding in python there are two packages, [`python-barcode`](https://pypi.org/project/python-barcode/) for 1D and  [`qrcode`](https://pypi.org/project/qrcode/) for 2D Quick Response (QR) codes. Both packages support among others svg vector graphics export.
 
 # Details
 
