@@ -1,0 +1,12 @@
+---
+title: "2D and 3D barcode templating for spectroscopy"
+author: "Philipp Baumann"
+date: "; Update: `r Sys.Date()`"
+output: rmarkdown::github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Description
